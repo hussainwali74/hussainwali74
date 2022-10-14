@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hussainwali74
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @hussainwali
+- 👀 I’m interested in datascience, Fullstack development and FC Barcelona 
+- 🌱 I’m currently learning Rasa Chatbot development and LSTM based chatbots
+- 💞️ I’m looking to collaborate on Python, Javascript projects (fullstack).
+- 📫 <a href="https://www.linkedin.com/in/hussain-wali-780294b6/">Wanna talk? </a>
 
 <!---
 hussainwali74/hussainwali74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
